@@ -2,6 +2,6 @@
 
 Perkenalkan nama saya **Aurelly Joeandani**.<br>
 
-Saya sebagai **Student Machine Learning Cohort** di [Bangkit Academy 2024 Batch 1]((https://grow.google/intl/id_id/bangkit/?tab=machine-learning)).<br>
+Saya sebagai **Student Machine Learning Cohort** di [Bangkit Academy 2024 Batch 1](https://grow.google/intl/id_id/bangkit/?tab=machine-learning).<br>
 
 Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/aurelly/)ku ya.
